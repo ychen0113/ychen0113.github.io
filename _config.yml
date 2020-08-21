@@ -1,11 +1,11 @@
 # Site settings
-author: Yiliang Chen
-title: 
+author: Chen
+title: Journey through Flatiron School
 header-img: img/home-bg.png
 email: yiliangchen0113@hotmail.com
-copyright_name: Yiliang Chen
+copyright_name: Chen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Killing my procrastination 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ychen0113
